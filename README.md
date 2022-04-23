@@ -15,10 +15,10 @@
   </a>
   <br>
   <a href="https://github.com/COLD-ONEZ/File-SHare-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/COLD-ONEZ/File-SHare-Bot?style=social">
+    <img src="https://img.shields.io/github/stars/sbdipun9090/File-SHare-Bot?style=social">
   </a>
   <a href="https://github.com/COLD-ONEZ/File-SHare-Bot/fork">
-    <img src="https://img.shields.io/github/forks/COLD-ONEZ/File-SHare-Bot?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/sbdipun9090/File-SHare-Bot?label=Fork&style=social">
   </a>  
 </p>
 
